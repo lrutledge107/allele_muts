@@ -21,4 +21,5 @@ Ouput includes:
 
 # Run the program
 To run the script simply call python and the downloaded script with the following command in your terminal window (Mac) or Powershell (Windows)
+
 `python ./allele_muts`
