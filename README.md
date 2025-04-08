@@ -18,3 +18,7 @@ Ouput includes:
     * merged/ - this folder contains the input data merged into a single file that we can use for processing
     * processed/ - this folder contains several intermediate processed files that can be used for error checking
     * output/ - this folder contains the final output of the script
+
+# Run the program
+To run the script simply call python and the downloaded script with the following command in your terminal window (Mac) or Powershell (Windows)
+`python ./allele_muts`
