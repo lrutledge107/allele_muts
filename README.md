@@ -11,7 +11,7 @@ Ouput includes:
 * allele_mut output can be used in downstream analyses as a way to include true alleleic diversity typically overlooked when homoplasy is present and scores are based on allele length alone.
 
 # Getting Started
-To run the program, you need to have [Python] (https://www.python.org/downloads/) installed.
+To run the program, you need to have [Python](https://www.python.org/downloads/) installed.
 
 # Project Layout
 The project is organized as follows
