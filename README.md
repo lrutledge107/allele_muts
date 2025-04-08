@@ -13,7 +13,8 @@ Ouput includes:
 # Getting Started
 * To run the program, you need to have [Python](https://www.python.org/downloads/) installed.
 * Refer to the conda-env.yaml file that describes the necessary packages to run this code. You can create an environment with "conda env creat --file=conda-env.yaml" and then activate the environment with "conda activate allele_muts" 
-* Create a directory called "run_allele_muts" that includes an "input" directory that contains all the "*_genotypes_mra_final.txt" output files from SatAnalyzer.
+* Create a directory called "data"
+* Within "data" create an "input" directoy that contains all the "*_genotypes_mra_final.txt" output files from SatAnalyzer.
 * When you run the program from within the "run_allele_muts" directory, the program will create addtional directories:
     * merged/ - this folder contains the input data merged into a single file that we can use for processing
     * processed/ - this folder contains several intermediate processed files that can be used for error checking
