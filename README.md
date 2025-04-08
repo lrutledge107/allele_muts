@@ -12,6 +12,7 @@ Ouput includes:
 
 # Getting Started
 To run the program, you need to have [Python](https://www.python.org/downloads/) installed.
+Refer to the conda-env.yaml file that describes the necessary packages to run allele_muts.py. 
 
 # Project Layout
 The project is organized as follows
