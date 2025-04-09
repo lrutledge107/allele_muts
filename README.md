@@ -10,17 +10,17 @@ Ouput includes:
 * a list of reference codes for specific mutations.
 * allele_mut output can be used in downstream analyses as a way to include true alleleic diversity typically overlooked when homoplasy is present and scores are based on allele length alone.
 
-# Getting Started
+# Preparation
 * To run the program, you need to have [Python](https://www.python.org/downloads/) installed.
 * Refer to the conda-env.yaml file that describes the necessary packages to run this code. You can create an environment with "conda env creat --file=conda-env.yaml" and then activate the environment with "conda activate allele_muts" 
 * Create a directory called "data"
-* Within "data" create an "input" directoy that contains all the "*_genotypes_mra_final.txt" output files from SatAnalyzer.
-* When you run the program from within the "run_allele_muts" directory, the program will create addtional directories:
-    * merged/ - this folder contains the input data merged into a single file that we can use for processing
-    * processed/ - this folder contains several intermediate processed files that can be used for error checking
-    * output/ - this folder contains the final output of the script
+* Within "data" create the following directories:
+*    "input" - contains all the "*_genotypes_mra_final.txt" output files from SatAnalyzer
+*    "merged" - this folder will contain the input data merged into a single file that we can use for processing 
+*    "processed" - this folder will contain several intermediate processed files that can be used for error checking
+*    "output" - this folder will contain the final output files from the script
 
 # Run the program
-To run the script simply call python and the downloaded script with the following command in your terminal window (Mac) or Powershell (Windows)
+Download the allele_muts.py code. Ensure you have also installed python and relevant dependancies. To run the script simply call python and the downloaded script with the following command in your terminal window (Mac) or Powershell (Windows) or server (Linux).
 
-`python ./allele_muts`
+`python allele_muts_v1.0.py`
