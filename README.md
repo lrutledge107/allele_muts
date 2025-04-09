@@ -20,7 +20,7 @@ Ouput includes:
 *    "processed" - this folder will contain several intermediate processed files that can be used for error checking
 *    "output" - this folder will contain the final output files from the script
 
-# Run the program
+# Run a test
 Download the allele_muts.py code. Ensure you have also installed python and relevant dependancies. To run the script simply call python and the downloaded script with the following command in your terminal window (Mac) or Powershell (Windows) or server (Linux).
 
 `python allele_muts_v1.0.py`
