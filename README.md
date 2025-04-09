@@ -26,5 +26,5 @@ Ouput includes:
 * Unzip the data.zip file
 `gunzip data.zip`
 * Within the "data" folder there is the "input" folder with *_genotypes_mra_final.txt files for five samples as well as empty "merged" "processd" and "output" folders.
-* To run a test, simply call python and the downloaded script with the following command in your terminal window (Mac) or Powershell (Windows) or server (Linux).
+* To run a test, simply call python and the downloaded script with the following command in your terminal (e.g. terminal window on Mac, Powershell on Windows or bash shell on Linux).
 `python allele_muts_v1.0.py`
