@@ -1,0 +1,9 @@
+name: allele_muts
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - python
+  - numpy
+prefix:

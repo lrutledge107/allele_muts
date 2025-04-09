@@ -12,7 +12,7 @@ Ouput includes:
 
 # Preparation
 * To run the program, you need to have [Python](https://www.python.org/downloads/) installed.
-* Refer to the conda-env.yaml file that describes the necessary packages to run this code. You can create an environment with "conda env creat --file=conda-env.yaml" and then activate the environment with "conda activate allele_muts" 
+* Refer to the conda-env.yaml file that describes the necessary packages to run this code. You can create an environment with "conda env create --file=conda-env.yaml" and then activate the environment with "conda activate allele_muts" 
 * Create a directory called "data"
 * Within "data" create the following directories:
 *    "input" - contains all the "*_genotypes_mra_final.txt" output files from SatAnalyzer
@@ -21,8 +21,8 @@ Ouput includes:
 *    "output" - this folder will contain the final output files from the script
 
 # Run a test
-* Download the allele_muts.py file and the data.zip file.
-* Ensure you have installed python and relevant dependancies.
+* Clone this repository to get the allele_muts.py file and the data.zip file.
+* Ensure you have installed python and relevant dependencies.
 * Unzip the data.zip file
 `gunzip data.zip`
 * Within the "data" folder there is the "input" folder with *_genotypes_mra_final.txt files for five samples as well as empty "merged" "processd" and "output" folders.
