@@ -21,6 +21,11 @@ Ouput includes:
 *    "output" - this folder will contain the final output files from the script
 
 # Run a test
-Download the allele_muts.py code. Ensure you have also installed python and relevant dependancies. To run the script simply call python and the downloaded script with the following command in your terminal window (Mac) or Powershell (Windows) or server (Linux).
+* Download the allele_muts.py file and the data.zip file.
+* Ensure you have installed python and relevant dependancies.
+* Unzip the data.zip file
+* `gunzip data.zip`
+* Within the "data" folder there is the "input" folder with *_genotypes_mra_final.txt files for five samples as well as empty "merged" "processd" and "output" folders.
+* To run a test, simply call python and the downloaded script with the following command in your terminal window (Mac) or Powershell (Windows) or server (Linux).
 
 `python allele_muts_v1.0.py`
