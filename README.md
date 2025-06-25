@@ -1,4 +1,4 @@
-# allele_muts
+# Canis STR-seq allele_muts
 
 # Description
 This program uses short tandem repeat (STR/microsatellite) sequence data output from SatAnalyzer (seq2sat) and incorporates mutations found in the flanking and repeat regions into a consolidated allele call that considers length and mutations. It takes as input all the *_genotypes_mra_final.txt output files from SatAnalyzer, and outputs a list of alleles at each locus that have mutation codes appended that incidate mutations in the MRA, snpsFF, and/or snpsRF regions. 
