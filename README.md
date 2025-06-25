@@ -6,7 +6,7 @@ This program uses short tandem repeat (STR/microsatellite) sequence data output 
 # Key Features
 Ouput includes:
 * a list of original genotypes based on length (allele_len)
-* a list of coded alleles scores that represent the allele size with appended digits to indicate MRA, snpsFF and snpsRF mutation codes (allele_mut).
+* a list of coded allele scores that represent the allele size with appended digits to indicate MRA, snpsFF and snpsRF mutation codes (allele_mut).
 * a list of reference codes for specific mutations.
 * allele_mut output can be used in downstream analyses as a way to include true alleleic diversity typically overlooked when homoplasy is present.
 
