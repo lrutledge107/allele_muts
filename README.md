@@ -31,3 +31,6 @@ Ouput includes:
   * FinalOutput.csv
   * MutationCodes.csv
   * allele_mut_onerowperind.csv
+
+# Getting Help
+* Note that this repository is not routinely monitored. We have ensured that the test runs accurately and we encourage users to follow instructions carefully when using allele_muts.py on their own data. 
