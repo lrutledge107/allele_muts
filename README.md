@@ -37,6 +37,7 @@ Ouput includes:
 
 # Publication
 Click the icon below to navigate to the publication on Zenodo
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15794713.svg)](https://doi.org/10.5281/zenodo.15794713)
 
 # Citation
