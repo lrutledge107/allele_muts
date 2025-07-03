@@ -34,3 +34,5 @@ Ouput includes:
 
 # Getting Help
 * Note that this repository is not routinely monitored. We have ensured that the test runs accurately and we encourage users to follow instructions carefully when using allele_muts.py on their own data. 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15794713.svg)](https://doi.org/10.5281/zenodo.15794713)
